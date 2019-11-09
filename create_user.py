@@ -1,2 +1,2 @@
-print('Enter your name:')
-print('Enter your password:')
+print('Username?:')
+print('Password?:')
